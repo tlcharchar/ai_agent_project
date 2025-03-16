@@ -1,2 +1,2 @@
-# ai_agent_project
+# AI Agent Project
 Example of a AI Agent built with Python and LangGraph
